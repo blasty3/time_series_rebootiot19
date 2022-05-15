@@ -39,7 +39,10 @@ See [Jupyter Notebook Sample](examples/artificial_data.ipynb) that displays how 
 
 ## Contact
 
-Vili Ketonen
+Work of Aalto Factory of the Future (https://www.aalto.fi/en/futurefactory), Aalto University
+
+Udayanto Dwi Atmojo (repo maintainer) udayanto(dot)atmojo(at)aalto(dot)fi
+Vili Ketonen (author)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vili-ketonen-75b16267)
 &nbsp;
